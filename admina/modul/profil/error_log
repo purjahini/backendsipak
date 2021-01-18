@@ -1,0 +1,2 @@
+[30-Dec-2020 08:25:07 UTC] PHP Warning:  imagejpeg(../../../upload/back_profil_foto/16093167071914320887.png): failed to open stream: No such file or directory in /home/bimarxyz/public_html/sipakwahno/backend/admina/inc/Database.php on line 493
+[30-Dec-2020 08:25:10 UTC] PHP Warning:  imagejpeg(../../../upload/back_profil_foto/1609316710479612918.png): failed to open stream: No such file or directory in /home/bimarxyz/public_html/sipakwahno/backend/admina/inc/Database.php on line 493
